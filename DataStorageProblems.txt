@@ -6,7 +6,7 @@ This shosw you when the processors has ran out of RAM and began to reach into ca
 On the 6-node cluster called LittleFe, this was around n = 400. 
 
 Because of the "tyranny of storage hierarchy," we have to find away to utilize multiple 
-nodes in a way that the matrix multiplication will be solved in components less than 400 by 400.
+nodes in a way that the matrix multiplication will be solved in components less than 400x400.
 
 You can read more about the "tyranny of storage hierarchy" and tiling at the websites for Henry Neeman's weblecture
 called Supercomputing in Plain English.   Scroll down on http://www.oscer.ou.edu/education.php.  
