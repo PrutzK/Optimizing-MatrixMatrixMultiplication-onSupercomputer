@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
 	ofstream fout;
-	fout.open("/Users/katherineprutz/Desktop/tilingMatricesData.txt", ios::out);
+	fout.open("tilingData.txt", ios::out);
 	int N=1600, numRC, origin, space=1, iteration, size, e, i, j, k;
 	int *A, *B, *Bb, *C;
 	A=(int*)malloc(1600*1600*sizeof(int));
