@@ -1,4 +1,4 @@
-We expect to get a graph that increases in time as the number of rows and columns n increases. 
+We expect to get a graph that increases in time as the number of rows and columns (n) increases. 
 You also should expect to see a sharp increase in time before the graph levels off again. 
 This shosw you when the processors has ran out of RAM and began to reach into cache memory. 
 
